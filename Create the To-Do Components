@@ -1,0 +1,6 @@
+Now, create the components for your To-Do application. You can create a folder named components in the src directory and create the following files:
+
+TodoList.js
+TodoItem.js
+AddTodo.js
+UpdateTodo.js
